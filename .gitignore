@@ -79,3 +79,5 @@ fabric.properties
 *.log
 
 /.idea/
+/Standard Library/Common Operations on Lists/target/
+/target/
